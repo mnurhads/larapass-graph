@@ -25,8 +25,8 @@
 ## Installing Composer
 ```bash
 # Clone the project
-git clone https://github.com/mnurhads/onemillion.git
-cd onemillion
+git clone git@github.com:mnurhads/larapass-graph.git
+cd larapass-graph
 
 # Copy .env.example .env
 cp .env.example .env
