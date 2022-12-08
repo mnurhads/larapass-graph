@@ -15,6 +15,7 @@
  * Composer 2.0 [Composer](https://blog.packagist.com/composer-2-0-is-now-available/).
  * Laravel ^8.x [Laravel](https://laravel.com/docs/8.x#installation).
  * Lighthouse - [Lighthouse](https://lighthouse-php.com/)
+ * Redis - [Redis](https://redis.io/)
 
 ### Using
 
@@ -51,5 +52,9 @@ php artisan migrate
 ![Login token pass](https://user-images.githubusercontent.com/108712079/206404432-9ebe41c3-e85a-4243-a350-c0d87524483c.png)
 
 ![With Header](https://user-images.githubusercontent.com/108712079/206404460-cabbb5d6-40f5-4fb9-b831-11a4130a9e0d.png)
+
+# Testing Redis
+
+![test redis](https://user-images.githubusercontent.com/108712079/206417283-af670431-0879-488b-98dd-70d08bad95ef.png)
 
 
